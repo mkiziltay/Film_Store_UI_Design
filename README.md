@@ -1,5 +1,5 @@
 # Film Store App UI Design
-* Trending stories
+* Trending stories with ListView
 * Timeline posts
 * Film Details screen
 
