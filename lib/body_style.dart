@@ -17,7 +17,8 @@ class BodyStyle extends StatelessWidget {
       child: SingleChildScrollView(
         child: Column(
           children: [
-            Padding(padding: EdgeInsets.only(left: 8, right: 8) ,child: TitleAndDivider(title: 'Trending', fromTop: 5, fromBottom: 5)),
+            const Padding(padding:  EdgeInsets.only(left: 8, right: 8),
+            child: TitleAndDivider(title: 'Trending', fromTop: 5, fromBottom: 5)),
             Container(
               width: double.infinity,
               height: size.height * 0.16,
