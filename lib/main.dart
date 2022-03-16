@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: ' UI Film Store Design '),
+      home: const MyHomePage(title: ' UI Film Store Design '),
     );
   }
 }
@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
     
     return Scaffold(
       appBar: AppBar(title: Text(title), centerTitle: true,toolbarHeight: 40,backgroundColor: Colors.blue,foregroundColor: Colors.white,),
-      body: BodyStyle(),
+      body: const BodyStyle(),
     );
   }
 }
