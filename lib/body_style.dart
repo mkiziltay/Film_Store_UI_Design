@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:store_ui_design/del_card_style.dart';
 import 'package:store_ui_design/widgets/film.dart';
-import 'del_detay_page.dart';
-//import 'widgets/film_post.dart';
 import 'widgets/story_style.dart';
 import 'widgets/title_and_dividerline.dart';
 
