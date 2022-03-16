@@ -10,7 +10,6 @@ class BodyStyle extends StatelessWidget {
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
     return Container(
-      //color: Colors.amber,
       child: SingleChildScrollView(
         child: Column(
           children: [
