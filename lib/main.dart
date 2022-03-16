@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: ' UI Film Store Design '),
+      home: const MyHomePage(title: 'UI Film Store Design'),
     );
   }
 }
