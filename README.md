@@ -5,3 +5,10 @@
 
 ## Screen View Example
 ![alt-text-1](https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-screen.png "film-list") ![alt-text-2](https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-details.png "film-details")
+
+## Screen View Exaple
+<p align="center">
+  <img alt="Light Mode" src="https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-screen.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark Mode" src="https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-details.png" width="45%">
+</p>
