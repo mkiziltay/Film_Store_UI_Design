@@ -3,7 +3,10 @@
 * Timeline posts
 * Film Details screen
 
-
+## Code Written Directories
+lib/..
+assets/...
+pubspec.yml (enabled assets/..)
 
 ## Screen View Exaple
 <p align="center">
