@@ -4,9 +4,12 @@
 * Film Details screen
 
 ## Code Written Directories
-lib/..
-assets/...
-pubspec.yml (enabled assets/..)
+* lib/..
+* assets/...
+* pubspec.yml (enabled assets/..)
+
+## Used : Images & Vectors
+* images and vectors stored under assets/...
 
 ## Screen View Exaple
 <p align="center">
