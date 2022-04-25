@@ -11,7 +11,7 @@
 ## Used : Images & Vectors
 * images and vectors stored under assets/...
 
-## Screen View Exaple
+## Screenshot Example
 <p align="center">
   <img alt="Light Mode" src="https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-screen.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
